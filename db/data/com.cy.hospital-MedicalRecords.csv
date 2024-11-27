@@ -1,0 +1,6 @@
+ID,recordDetails,createdDate,patient_ID,doctor_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,Initial consultation for fever,2024-10-10,1,1,2024-10-01T10:00:00Z,admin,2024-10-01T10:00:00Z,admin
+2,Follow-up appointment for checkup,2024-10-12,2,2,2024-10-02T10:00:00Z,admin,2024-10-02T10:00:00Z,admin
+3,Diagnosis of cold and cough,2024-10-14,3,3,2024-10-03T10:00:00Z,admin,2024-10-03T10:00:00Z,admin
+4,Checkup after surgery,2024-10-16,4,1,2024-10-04T10:00:00Z,admin,2024-10-04T10:00:00Z,admin
+5,Prescribed medication for allergies,2024-10-18,5,2,2024-10-05T10:00:00Z,admin,2024-10-05T10:00:00Z,admin

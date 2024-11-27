@@ -1,0 +1,7 @@
+ID,staffName,role,hospital_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,Emily Carter,Nurse,1,2024-10-01T09:00:00Z,admin,2024-10-01T09:00:00Z,admin
+2,James Brown,Surgeon,1,2024-10-02T09:00:00Z,admin,2024-10-02T09:00:00Z,admin
+3,Linda White,Receptionist,2,2024-10-03T09:00:00Z,admin,2024-10-03T09:00:00Z,admin
+4,Michael Johnson,Pharmacist,2,2024-10-04T09:00:00Z,admin,2024-10-04T09:00:00Z,admin
+5,Sarah Lee,Administrator,3,2024-10-05T09:00:00Z,admin,2024-10-05T09:00:00Z,admin
+6,David Smith,Technician,3,2024-10-06T09:00:00Z,admin,2024-10-06T09:00:00Z,admin

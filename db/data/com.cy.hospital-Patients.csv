@@ -1,0 +1,7 @@
+ID,patientName,dateOfBirth,hospital_ID,room_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,John Doe,1985-05-15,1,101,2024-10-01T09:00:00Z,admin,2024-10-01T09:00:00Z,admin
+2,Jane Smith,1990-08-22,1,102,2024-10-02T09:00:00Z,admin,2024-10-02T09:00:00Z,admin
+3,Mike Johnson,1975-11-10,2,201,2024-10-03T09:00:00Z,admin,2024-10-03T09:00:00Z,admin
+4,Alice Brown,1988-03-30,2,202,2024-10-04T09:00:00Z,admin,2024-10-04T09:00:00Z,admin
+5,Robert White,2000-12-01,3,301,2024-10-05T09:00:00Z,admin,2024-10-05T09:00:00Z,admin
+6,Susan Green,1972-07-18,3,302,2024-10-06T09:00:00Z,admin,2024-10-06T09:00:00Z,admin

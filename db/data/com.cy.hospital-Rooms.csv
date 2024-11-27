@@ -1,0 +1,7 @@
+ID,roomNumber,roomType,hospital_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,101,Single,1,2024-10-01T09:00:00Z,admin,2024-10-01T09:00:00Z,admin
+2,102,Double,1,2024-10-02T09:00:00Z,admin,2024-10-02T09:00:00Z,admin
+3,201,Single,2,2024-10-03T09:00:00Z,admin,2024-10-03T09:00:00Z,admin
+4,202,Double,2,2024-10-04T09:00:00Z,admin,2024-10-04T09:00:00Z,admin
+5,301,ICU,3,2024-10-05T09:00:00Z,admin,2024-10-05T09:00:00Z,admin
+6,302,Single,3,2024-10-06T09:00:00Z,admin,2024-10-06T09:00:00Z,admin

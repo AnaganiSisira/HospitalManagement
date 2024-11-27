@@ -1,0 +1,7 @@
+ID,doctorName,specialty,monthlyPayMin_code,monthlyPayMax_code,department_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,Dr. John Smith,Cardiology,10000,15000,1,2024-01-01T10:00:00Z,admin,2024-01-01T10:00:00Z,admin
+2,Dr. Emily Davis,Neurology,9500,14000,1,2024-01-02T11:30:00Z,admin,2024-01-02T11:30:00Z,admin
+3,Dr. Michael Johnson,Orthopedics,8000,12000,2,2024-01-03T09:15:00Z,admin,2024-01-03T09:15:00Z,admin
+4,Dr. Sarah Brown,Pediatrics,7000,11000,4,2024-01-04T14:45:00Z,admin,2024-01-04T14:45:00Z,admin
+5,Dr. Jessica Wilson,Emergency Medicine,12000,18000,3,2024-01-05T08:20:00Z,admin,2024-01-05T08:20:00Z,admin
+6,Dr. David Taylor,Gynecology,9000,13000,5,2024-01-06T09:00:00Z,admin,2024-01-06T09:00:00Z,admin

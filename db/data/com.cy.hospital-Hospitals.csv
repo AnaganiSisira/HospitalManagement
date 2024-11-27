@@ -1,0 +1,6 @@
+ID,hospitalName,address,numberOfDepartments,createdAt,createdBy,modifiedAt,modifiedBy
+1,Greenwood Hospital,123 Maple St,5,2024-01-01T10:00:00Z,admin,2024-01-01T10:00:00Z,admin
+2,Sunnydale Medical Center,456 Oak Ave,3,2024-01-02T11:30:00Z,admin,2024-01-02T11:30:00Z,admin
+3,Riverside General Hospital,789 Pine Rd,8,2024-01-03T09:15:00Z,admin,2024-01-03T09:15:00Z,admin
+4,Westside Clinic,321 Cedar Blvd,2,2024-01-04T14:45:00Z,admin,2024-01-04T14:45:00Z,admin
+5,Northern Lights Health Center,654 Elm St,6,2024-01-05T08:20:00Z,admin,2024-01-05T08:20:00Z,admin

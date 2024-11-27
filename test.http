@@ -1,0 +1,15 @@
+###
+POST  http://localhost:4004/odata/v4/my/Hospitals
+Content-Type: application/json
+
+{
+                "hospitalName" : "abc",
+                "address" :"abd",
+                "numberOfDepartments" :"4",
+                "departments" : {"ID": 3},
+                "staff" : {"ID": 3},
+                "patients" : {"ID": 3}
+}
+
+###
+GET   http://localhost:4004/odata/v4/my/Hospitals

@@ -1,0 +1,7 @@
+ID,departmentName,numberOfDoctors,hospital_ID,createdAt,createdBy,modifiedAt,modifiedBy
+1,Cardiology,5,1,2024-01-01T10:00:00Z,admin,2024-01-01T10:00:00Z,admin
+2,Neurology,4,1,2024-01-02T11:30:00Z,admin,2024-01-02T11:30:00Z,admin
+3,Orthopedics,3,2,2024-01-03T09:15:00Z,admin,2024-01-03T09:15:00Z,admin
+4,Pediatrics,2,3,2024-01-04T14:45:00Z,admin,2024-01-04T14:45:00Z,admin
+5,Emergency Medicine,6,4,2024-01-05T08:20:00Z,admin,2024-01-05T08:20:00Z,admin
+6,Gynecology,4,5,2024-01-06T09:00:00Z,admin,2024-01-06T09:00:00Z,admin
